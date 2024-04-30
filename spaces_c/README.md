@@ -10,7 +10,7 @@ There are six different space types:
 - ⟏ (3): Adult space type 2
 - ▪ (4): Adult space type 0 (infertile)
 - ⧆ (5): Elder space
-\
+</br>
 - The dead space does not interact with its surroundings in any way. It is considered empty, waiting to become a different space type.
 - The child space also does not interact with its surroundings. However, it is not an empty space and after two iterations, it becomes either a type 1 or type 2 adult space (50/50)
 - The adult spaces type 1 and 2 are fertile and can potentially breed a child space. In order to do so, a type 1 adult space needs to be next to a type 2 and viceversa. Additionally, there needs to be a free space around.
